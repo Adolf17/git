@@ -1,6 +1,0 @@
-hello
-everyone
-i
-am 
-version
-1
